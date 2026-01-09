@@ -2,6 +2,7 @@
 
 > **Custom ComfyUI nodes for controlling camera angles with Qwen-Image-Edit-2511-Multiple-Angles-LoRA**
 
+<img width="1456" height="380" alt="2026-01-09_11-10" src="https://github.com/user-attachments/assets/3121a713-c4d8-4d98-bd49-230e3aa800df" />
 
 
 ---
@@ -279,7 +280,7 @@ The LoRA expects prompts in this format:
 - **ComfyUI**: Latest version recommended
 - **Python**: 3.10+
 - **Base Model**: [Qwen/Qwen-Image-Edit-2511](https://huggingface.co/Qwen/Qwen-Image-Edit-2511)
-- **LoRA**: [Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/lovis93/Qwen-Image-Edit-2511-Multiple-Angles-LoRA)
+- **LoRA**: [Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA)
 
 ---
 
