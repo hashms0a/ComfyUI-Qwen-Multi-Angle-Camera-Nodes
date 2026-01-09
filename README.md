@@ -30,7 +30,7 @@ This custom node package provides comprehensive camera angle control for the [Qw
 
 2. Clone or copy this folder:
    ```bash
-   git clone <repository-url> comfyui-qwen-multi-angle-camera
+   git clone https://github.com/hashms0a/ComfyUI-Qwen-Multi-Angle-Camera-Nodes.git
    # OR
    # Copy the folder manually
    ```
