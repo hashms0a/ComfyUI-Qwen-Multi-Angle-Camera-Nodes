@@ -9,7 +9,7 @@
 
 ## Overview
 
-This custom node package provides comprehensive camera angle control for the [Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/lovis93/Qwen-Image-Edit-2511-Multiple-Angles-LoRA), supporting all **96 camera positions**.
+This custom node package provides comprehensive camera angle control for the [Qwen-Image-Edit-2511-Multiple-Angles-LoRA](https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA), supporting all **96 camera positions**.
 
 ### Camera System
 
